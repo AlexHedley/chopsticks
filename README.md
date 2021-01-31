@@ -2,7 +2,7 @@
 
 Chopsticks (Cubiko game)
 
-![Chopsticks](images/Chopsticks.jpeg "Chopsticks")
+![Chopsticks](images/chopsticks.jpeg "Chopsticks")
 
 > Chopsticks is a fast, simultaineous action, dexterity game for 2 players that takes 5-15 minutes to play. It is suitable for ages 8 up.
 
