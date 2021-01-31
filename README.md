@@ -1,0 +1,2 @@
+# chopsticks
+Chopsticks (Cubiko game)
